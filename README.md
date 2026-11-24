@@ -12,6 +12,13 @@ Usually filed under heaps (simulate by always running the most-urgent available 
 
 **Complexity:** O(tasks) time, O(26) space.
 
+## Visual walkthrough
+
+Read the picture top to bottom — each numbered frame is one moment of the algorithm
+running on this repo's test example.
+
+![Step-by-step visual walkthrough](viz.svg)
+
 ## Run
 
     go test ./...   # verify
